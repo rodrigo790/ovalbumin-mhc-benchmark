@@ -1,0 +1,212 @@
+[
+  {
+    "allele": "H2-Db",
+    "mode": "ba",
+    "length": 8,
+    "entries": 3,
+    "response_sha256": "d1a7c5e79a5c2d3e5631573def721a0b77dc0824eaab63ae69479de232bc3823"
+  },
+  {
+    "allele": "H2-Db",
+    "mode": "el",
+    "length": 8,
+    "entries": 3,
+    "response_sha256": "51ad095b00264dfaf0321275f46d38a23d77e2b75460242f4b22dce1679c07ef"
+  },
+  {
+    "allele": "H2-Db",
+    "mode": "ba",
+    "length": 9,
+    "entries": 3,
+    "response_sha256": "69185b158dc2137f3cd534577e288aa7b8d8488de711ecac62ddc7f8307258c7"
+  },
+  {
+    "allele": "H2-Db",
+    "mode": "el",
+    "length": 9,
+    "entries": 3,
+    "response_sha256": "1266994d6d1e06ba237abee24d9a99198b4a47e225a8758f9f24f83b8d6debf0"
+  },
+  {
+    "allele": "H2-Db",
+    "mode": "ba",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "88cde3087b6012e8457b83120ddec3bc03593af7ae9d79a8d1967bf0026dc344"
+  },
+  {
+    "allele": "H2-Db",
+    "mode": "el",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "3f9450a5f23b30b9b71da83d3dc40e98c39a26e1f11463e36ae6dfc17541484f"
+  },
+  {
+    "allele": "H2-Kb",
+    "mode": "ba",
+    "length": 8,
+    "entries": 12,
+    "response_sha256": "080fcf7e727afdafa0e03c672c01b38bcdeb08088ce6155e4d8be5aa70d439bf"
+  },
+  {
+    "allele": "H2-Kb",
+    "mode": "el",
+    "length": 8,
+    "entries": 12,
+    "response_sha256": "8100066120ab706d48a9d3c8c6eccb1457afd6b6bf31a3ba85d87b70cf632a14"
+  },
+  {
+    "allele": "H2-Kb",
+    "mode": "ba",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "30fe9ad5f4c771245aef1539a799b2bef134c54fd18a6930434170196b165105"
+  },
+  {
+    "allele": "H2-Kb",
+    "mode": "el",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "c9154f2dce41d4ff1e9d08e3c97ee6a5d3c59b6b08c055ba8835e349e0126e9e"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "ba",
+    "length": 8,
+    "entries": 1,
+    "response_sha256": "6db6824a49272ecbd37db13e21ebb04a818f4a520ae4d7ee8241364ca5f24b4c"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "el",
+    "length": 8,
+    "entries": 1,
+    "response_sha256": "9dd905249563f39cecd5ba034f32d12270670343d73cc0f88266e4b321145c52"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "ba",
+    "length": 9,
+    "entries": 4,
+    "response_sha256": "4f5aaaa5018f13ba155316bb4478b80765058c2310080192a8ee0ffbb0dfa78e"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "el",
+    "length": 9,
+    "entries": 4,
+    "response_sha256": "6f876d9d2801f4c03a3933dc41411e7b65b41c9c99f5c491b701179d968d520b"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "ba",
+    "length": 10,
+    "entries": 2,
+    "response_sha256": "fa69578eddb3e05836520c0df2e0ad773cceca8a420217e2235a697f57109cea"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "el",
+    "length": 10,
+    "entries": 2,
+    "response_sha256": "411233902b74d2c96bae79deac9aedc3d6f2d3cdd5310648c9cce792c8eab776"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "ba",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "6c41617538d06ca2d354ba1e5e5ce3affb1a75b25fa5b037edb5e7659f6da4ec"
+  },
+  {
+    "allele": "H2-Kd",
+    "mode": "el",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "bf4ff2e8d912bb32bc9393a92a51c45173dc82f884b38b00f00a284a67b0aac8"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 11,
+    "entries": 2,
+    "response_sha256": "1712ad93fa515f0ac8a09aa4b7b1f8d7d06597449a9451cf6d18debd2137939f"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 11,
+    "entries": 2,
+    "response_sha256": "37d10ab3371f89e02e7098020003bf50f5043b7bba5e64e4f8ccd9c94aee03f9"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 12,
+    "entries": 3,
+    "response_sha256": "9178ea9a6c0b6f11270f9a3fa6177bcbd2484530a61d98f896378c39d225d370"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 12,
+    "entries": 3,
+    "response_sha256": "4549e6fb98cbab4d92c1f65e1901c3da54f31a6f43cd8fc4f834f29601249a12"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 13,
+    "entries": 2,
+    "response_sha256": "9da9fd243ee13c9862cafda656261c514bc23f0b312926d079e5eada6cfd22cf"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 13,
+    "entries": 2,
+    "response_sha256": "a15f99d7fab778797b5cc7bbdce89919003cd328b9cc6127fc06b1c7684d853d"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "5f4650c223d7ec87ee7bb53c8030a0b60e3ea991cb7a0405fe2ce7da973aad3c"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 14,
+    "entries": 1,
+    "response_sha256": "8f07c65d6fef39198bab7f7f56072a36b2db42ff4c2d68ffcefec7ece6a1d917"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 15,
+    "entries": 2,
+    "response_sha256": "d90505223ecf76ea987827136e1103da6c01a81de0cf94d5b176aa91ce9d6605"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 15,
+    "entries": 2,
+    "response_sha256": "c77f93e1ef169953145dd53b0e94ccea2df18fc0879bd9141461f97c897b550c"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "ba",
+    "length": 20,
+    "entries": 3,
+    "response_sha256": "63fad3ba6787780045ba1dd4ce33feefb92e430a9af5cf703ed59ce1229644da"
+  },
+  {
+    "allele": "HLA-DQA1*03:01/DQB1*03:01",
+    "mode": "el",
+    "length": 20,
+    "entries": 3,
+    "response_sha256": "8a1d516d67f78314599ece6426c6cc7604d1020299a12a96f565ed7073d5aa90"
+  }
+]

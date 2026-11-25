@@ -1,0 +1,12 @@
+{
+  "assay_rows": 56,
+  "nonconflicting_pairs": 44,
+  "conflicting_pairs": 2,
+  "pairs_scored_by_both_models": 39,
+  "alleles_with_both_labels": [
+    "H2-Db",
+    "H2-Kb",
+    "H2-Kd",
+    "HLA-DQA1*03:01/DQB1*03:01"
+  ]
+}

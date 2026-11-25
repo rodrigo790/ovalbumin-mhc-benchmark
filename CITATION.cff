@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "When using this project, cite the repository and original data sources."
+type: software
+title: "Ovalbumin MHC benchmark"
+authors:
+  - name: rodrigo790
+repository-code: "https://github.com/rodrigo790/ovalbumin-mhc-benchmark"
+license: MIT

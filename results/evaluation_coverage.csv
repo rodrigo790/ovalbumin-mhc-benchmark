@@ -1,0 +1,5 @@
+allele,observed_pairs,scored_pairs,positive,negative
+H2-Db,6,6,1,5
+H2-Kb,12,12,5,7
+H2-Kd,8,8,3,5
+HLA-DQA1*03:01/DQB1*03:01,18,13,1,12

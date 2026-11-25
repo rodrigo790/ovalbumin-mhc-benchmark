@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.png binary
+*.pdb -whitespace
+*.html -whitespace
+data/** -text !eol whitespace=cr-at-eol

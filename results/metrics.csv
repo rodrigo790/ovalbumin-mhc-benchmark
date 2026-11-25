@@ -1,0 +1,13 @@
+allele,predictor,observed_pairs,scored_pairs,positive,negative,prevalence,roc_auc,average_precision
+H2-Db,Binding affinity (BA),6,6,1,5,0.166667,1.000000,1.000000
+H2-Db,Eluted ligand (EL),6,6,1,5,0.166667,1.000000,1.000000
+H2-Db,Length baseline,6,6,1,5,0.166667,0.800000,0.333333
+H2-Kb,Binding affinity (BA),12,12,5,7,0.416667,1.000000,1.000000
+H2-Kb,Eluted ligand (EL),12,12,5,7,0.416667,0.971429,0.966667
+H2-Kb,Length baseline,12,12,5,7,0.416667,0.571429,0.454545
+H2-Kd,Binding affinity (BA),8,8,3,5,0.375000,1.000000,1.000000
+H2-Kd,Eluted ligand (EL),8,8,3,5,0.375000,0.800000,0.638889
+H2-Kd,Length baseline,8,8,3,5,0.375000,0.666667,0.476190
+HLA-DQA1*03:01/DQB1*03:01,Binding affinity (BA),18,13,1,12,0.076923,1.000000,1.000000
+HLA-DQA1*03:01/DQB1*03:01,Eluted ligand (EL),18,13,1,12,0.076923,0.916667,0.500000
+HLA-DQA1*03:01/DQB1*03:01,Length baseline,18,13,1,12,0.076923,0.833333,0.333333
