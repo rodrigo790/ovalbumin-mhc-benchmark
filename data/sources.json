@@ -1,27 +1,27 @@
 {
   "ova.fasta": {
     "url": "https://rest.uniprot.org/uniprotkb/P01012.fasta",
-    "sha256": "8d1fd523f72ba361160b98c33f31bad90ae9d87e22d9045f89d6f574edd84f1c",
-    "bytes": 481,
+    "sha256": "14ca6c7db2c4e15ae6781014a183228cf2f30266c7e2e87a6890f834da2bc67c",
+    "bytes": 473,
     "observed_date": "2026-11-25"
   },
   "binding_assays.csv": {
     "url": "https://query-api.iedb.org/mhc_search?parent_source_antigen_iri=eq.UNIPROT%3AP01012&limit=10000",
-    "sha256": "a34e31145b62b08a574b61310fc0172b2b9e56bcb3bd76c3da45f2f0054de355",
-    "bytes": 7749,
+    "sha256": "c749f6467b61e2ed676138dd8f9964e8e248c23d88b17c4d045a651fb241dd7c",
+    "bytes": 7692,
     "observed_date": "2026-11-25",
     "note": "Curated CSV derived from query, limited to natural P01012 peptides and four allele records in the same binding assay category"
   },
   "external_scores.csv": {
     "url": "https://tools.iedb.org/main/tools-api/",
-    "sha256": "ac5e7198098c77a2ad885e290b32614dfc7a4de3e29c288a3f3b49f9346b2b61",
-    "bytes": 1443,
+    "sha256": "384bbcd2679a9c4ea3fb2440e1aa76d529f9a35e2e0c43fbf209887438ab7fa6",
+    "bytes": 1401,
     "observed_date": "2026-11-25"
   },
   "prediction_provenance.json": {
     "url": "https://tools.iedb.org/main/tools-api/",
-    "sha256": "9cbfd82838089384b8acd1791eff0b7a74ad73f3046cacd4762cd856688559e2",
-    "bytes": 5727,
+    "sha256": "382d0979649b54276fec26df20a2a8236e4e4fac1a156f2ea21658b9fce94c9d",
+    "bytes": 5515,
     "observed_date": "2026-11-25"
   }
 }
